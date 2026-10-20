@@ -19,10 +19,12 @@ Ready-to-use wording is available in [attribution examples](attribution.md).
 
 | Element | Value | Intended use |
 | --- | --- | --- |
-| Deep navy | `#071B3B` | Main background |
-| Cyan | `#00E5E5` | Monogram, rules, and highlights |
-| Ice white | `#F4FBFF` | Main text on navy |
-| Soft blue | `#A6E7EC` | Secondary text on navy |
+| Deep navy | `#102B54` | Main background |
+| Teal | `#32D6C4` | Research, verification, and key highlights |
+| Periwinkle | `#8292FF` | Supporting shapes and process accents |
+| Amber | `#FFBD69` | Templates and coordination accents |
+| Ice white | `#F7FAFF` | Main text on navy |
+| Soft blue | `#CBDCF0` | Secondary text on navy |
 
 Typography uses common sans-serif fonts, with clear headings and short paragraphs. Graphics use simple geometric shapes so they remain legible at small sizes.
 
@@ -35,5 +37,7 @@ Typography uses common sans-serif fonts, with clear headings and short paragraph
 | [Social preview source](../assets/social-preview.svg) | SVG | Editable source for the preview |
 | [Avatar](../assets/muted-cybersecurity-avatar.png) | PNG | Profile image |
 | [Research workflow](../assets/research-workflow.svg) | SVG | Process diagram |
+| [Research card](../assets/research-card.svg) | SVG | Link to published research |
+| [Templates card](../assets/templates-card.svg) | SVG | Link to reporting formats |
 
 The original graphics in this repository may be reused for Muted Cybersecurity publications. External uses should preserve the name and avoid implying endorsement of third-party findings or products.

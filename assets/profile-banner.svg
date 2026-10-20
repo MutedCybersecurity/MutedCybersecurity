@@ -1,11 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
-  <title id="title">Muted Cybersecurity</title>
-  <desc id="desc">Navy banner with a cyan shield monogram and the words Security Research and Coordinated Disclosure.</desc>
-  <rect width="1200" height="250" rx="24" fill="#071b3b"/>
-  <g opacity=".15" stroke="#52dce8" fill="none"><path d="M0 200H1200M0 150H1200M0 100H1200M0 50H1200"/><path d="M875 0V250M975 0V250M1075 0V250"/></g>
-  <path d="M104 42 160 66 216 42v69c0 49-35 82-56 94-21-12-56-45-56-94Z" fill="none" stroke="#00e5e5" stroke-width="8" stroke-linejoin="round"/>
-  <path d="M127 145V79l33 37 33-37v66" fill="none" stroke="#00e5e5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="270" y="113" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="35" fill="#f4fbff">MUTED CYBERSECURITY</text>
-  <path d="M271 131h600" stroke="#00e5e5" stroke-width="3"/>
-  <text x="272" y="174" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#a6e7ec">SECURITY RESEARCH · COORDINATED DISCLOSURE</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Muted Cybersecurity — security research</title>
+  <desc id="desc">Corporate navy and blue banner with teal, violet and amber accents, a shield illustration, and security research message.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A1731"/><stop offset=".52" stop-color="#143367"/><stop offset="1" stop-color="#342C72"/></linearGradient>
+    <linearGradient id="glow"><stop stop-color="#32D6C4"/><stop offset="1" stop-color="#8292FF"/></linearGradient>
+    <linearGradient id="tile" x2="1" y2="1"><stop stop-color="#355584"/><stop offset="1" stop-color="#24315F"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="#102B54"/>
+  <circle cx="1100" cy="-30" r="250" fill="#8292FF" opacity=".13"/><circle cx="990" cy="368" r="265" fill="#32D6C4" opacity=".10"/>
+  <path d="M740 0v360M805 0v360M870 0v360M935 0v360M1000 0v360M1065 0v360M1130 0v360M740 77h460M740 142h460M740 207h460M740 272h460" stroke="#B7DAEF" stroke-opacity=".08"/>
+  <rect x="54" y="37" width="308" height="36" rx="18" fill="#A7EDE7" fill-opacity=".12" stroke="#32D6C4" stroke-opacity=".55"/>
+  <circle cx="75" cy="55" r="5" fill="#32D6C4"/><text x="91" y="61" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="2" fill="#D7FFFA">MUTED CYBERSECURITY</text>
+  <text x="54" y="151" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="700" fill="#F7FAFF">Security research</text>
+  <text x="54" y="207" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" fill="#B9C7FF">with clear outcomes.</text>
+  <text x="57" y="252" font-family="Arial,Helvetica,sans-serif" font-size="21" fill="#D9E4F4">Evidence-led testing. Private reporting. Coordinated release.</text>
+  <g font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">
+    <circle cx="62" cy="312" r="6" fill="#32D6C4"/><text x="77" y="317" fill="#E7F9FA">VERIFY</text>
+    <circle cx="202" cy="312" r="6" fill="#8292FF"/><text x="217" y="317" fill="#E7F9FA">COMMUNICATE</text>
+    <circle cx="398" cy="312" r="6" fill="#FFBD69"/><text x="413" y="317" fill="#E7F9FA">COORDINATE</text>
+  </g>
+  <g transform="translate(865 35)">
+    <rect x="-27" y="38" width="263" height="247" rx="31" fill="url(#tile)" stroke="#A5C8FF" stroke-opacity=".38" transform="rotate(9 105 161)"/>
+    <rect width="259" height="265" rx="30" fill="#10284E" stroke="#81B4E9" stroke-opacity=".6"/>
+    <circle cx="130" cy="123" r="91" fill="none" stroke="#32D6C4" stroke-opacity=".25" stroke-width="2"/>
+    <circle cx="130" cy="123" r="67" fill="none" stroke="#8292FF" stroke-opacity=".40" stroke-width="2"/>
+    <path d="M80 69 130 88 180 69v64c0 45-32 75-50 86-18-11-50-41-50-86Z" fill="#173C66" stroke="#32D6C4" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M101 152v-46l29 31 29-31v46" fill="none" stroke="#F7FAFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="202" cy="42" r="10" fill="#FFBD69"/><circle cx="39" cy="224" r="7" fill="#8292FF"/><circle cx="222" cy="220" r="5" fill="#32D6C4"/>
+    <path d="M35 228 60 203M194 49l-17 18" stroke="#D7E8FF" stroke-opacity=".6" stroke-width="2"/>
+  </g>
 </svg>

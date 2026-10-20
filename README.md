@@ -42,11 +42,14 @@ We keep verified observations separate from hypotheses, use synthetic data where
 
 ## Explore our work
 
-| Repository | What you will find |
-| --- | --- |
-| [Security research](https://github.com/MutedCybersecurity/security-research) | A curated record of published advisory credits and our research approach. |
-| [Disclosure templates](https://github.com/MutedCybersecurity/disclosure-templates) | Reusable formats for private reports, follow-ups, fix reviews, and publication checks. |
-| [Brand resources](brand/README.md) | Visual assets, color references, and attribution wording. |
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/MutedCybersecurity/security-research"><img src="assets/research-card.svg" alt="Security research: published advisory credits and methods" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/MutedCybersecurity/disclosure-templates"><img src="assets/templates-card.svg" alt="Disclosure templates: bilingual formats for coordinated reports" width="100%"></a></td>
+  </tr>
+</table>
+
+Our [brand resources](brand/README.md) include reusable graphics and attribution wording.
 
 ## Selected public credits
 

@@ -42,11 +42,14 @@ Distinguimos los resultados verificados de las hipótesis, usamos datos sintéti
 
 ## Repositorios principales
 
-| Repositorio | Contenido |
-| --- | --- |
-| [Security research](https://github.com/MutedCybersecurity/security-research) | Créditos publicados y método de investigación. |
-| [Disclosure templates](https://github.com/MutedCybersecurity/disclosure-templates) | Formatos en inglés y español para reportes, seguimientos, revisión de correcciones y publicación. |
-| [Recursos de marca](brand/README.md) | Diseño, colores y nombre de atribución. |
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/MutedCybersecurity/security-research"><img src="assets/research-card.svg" alt="Investigación: créditos publicados y método" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/MutedCybersecurity/disclosure-templates"><img src="assets/templates-card.svg" alt="Plantillas: formatos bilingües para la divulgación coordinada" width="100%"></a></td>
+  </tr>
+</table>
+
+Los [recursos de marca](brand/README.md) incluyen gráficos reutilizables y ejemplos de atribución.
 
 ## Créditos públicos seleccionados
 

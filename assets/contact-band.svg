@@ -1,10 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 178" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 185" role="img" aria-labelledby="title desc">
   <title id="title">Contact Muted Cybersecurity</title>
-  <desc id="desc">Navy contact banner with an envelope icon and professional contact address.</desc>
-  <rect width="1200" height="178" rx="20" fill="#071b3b"/>
-  <path d="M43 45h98a13 13 0 0 1 13 13v61a13 13 0 0 1-13 13H43a13 13 0 0 1-13-13V58a13 13 0 0 1 13-13Z" fill="none" stroke="#00e5e5" stroke-width="5"/>
-  <path d="m34 55 58 43 58-43" fill="none" stroke="#00e5e5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="194" y="73" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#f4fbff">LET'S COORDINATE</text>
-  <text x="195" y="112" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#a6e7ec">cybersec@mut3dcybersecurity.com</text>
-  <path d="M195 132h745" stroke="#00e5e5" stroke-width="3"/>
+  <desc id="desc">Business contact graphic with an illustrated message card and professional email address.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#123B65"/><stop offset=".6" stop-color="#293A78"/><stop offset="1" stop-color="#472F6D"/></linearGradient></defs>
+  <rect width="1200" height="185" rx="23" fill="#204477"/>
+  <circle cx="1098" cy="0" r="180" fill="#8292FF" opacity=".14"/><circle cx="34" cy="182" r="108" fill="#32D6C4" opacity=".13"/>
+  <rect x="35" y="43" width="110" height="99" rx="20" fill="#32D6C4"/>
+  <rect x="57" y="69" width="66" height="48" rx="7" fill="none" stroke="#10284E" stroke-width="5"/><path d="m59 73 31 24 31-24" fill="none" stroke="#10284E" stroke-width="5" stroke-linejoin="round"/>
+  <text x="180" y="80" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" fill="#F7FAFF">Let's coordinate.</text>
+  <text x="180" y="117" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#D8E8F8">cybersec@mut3dcybersecurity.com</text>
+  <path d="M182 138h560" stroke="#32D6C4" stroke-width="3"/>
+  <g transform="translate(1010 49)" fill="none" stroke-width="4"><circle cx="45" cy="45" r="35" stroke="#8292FF"/><circle cx="45" cy="45" r="16" stroke="#32D6C4"/><path d="M45 0v15M45 75v15M0 45h15M75 45h15" stroke="#FFBD69" stroke-linecap="round"/></g>
 </svg>
