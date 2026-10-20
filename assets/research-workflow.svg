@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 232" role="img" aria-labelledby="title desc">
+  <title id="title">Research workflow</title>
+  <desc id="desc">Four steps: define the boundary, validate in isolation, report privately, coordinate publication.</desc>
+  <rect width="1200" height="232" rx="20" fill="#071b3b"/>
+  <path d="M300 116h26M592 116h26M884 116h26" stroke="#00e5e5" stroke-width="4" stroke-linecap="round"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(26 24)"><rect width="270" height="184" rx="16" fill="#0e2a51" stroke="#225377"/><path d="M18 18h234" stroke="#00e5e5" stroke-width="5"/><text x="21" y="67" fill="#00e5e5" font-size="31" font-weight="700">01</text><text x="21" y="109" fill="#f4fbff" font-size="21" font-weight="700">Define the boundary</text><text x="21" y="141" fill="#a6e7ec" font-size="16">Expected vs. observed</text></g>
+    <g transform="translate(318 24)"><rect width="270" height="184" rx="16" fill="#0e2a51" stroke="#225377"/><path d="M18 18h234" stroke="#00e5e5" stroke-width="5"/><text x="21" y="67" fill="#00e5e5" font-size="31" font-weight="700">02</text><text x="21" y="109" fill="#f4fbff" font-size="21" font-weight="700">Validate in isolation</text><text x="21" y="141" fill="#a6e7ec" font-size="16">Controlled evidence</text></g>
+    <g transform="translate(610 24)"><rect width="270" height="184" rx="16" fill="#0e2a51" stroke="#225377"/><path d="M18 18h234" stroke="#00e5e5" stroke-width="5"/><text x="21" y="67" fill="#00e5e5" font-size="31" font-weight="700">03</text><text x="21" y="109" fill="#f4fbff" font-size="21" font-weight="700">Report privately</text><text x="21" y="141" fill="#a6e7ec" font-size="16">Preferred security channel</text></g>
+    <g transform="translate(902 24)"><rect width="270" height="184" rx="16" fill="#0e2a51" stroke="#225377"/><path d="M18 18h234" stroke="#00e5e5" stroke-width="5"/><text x="21" y="67" fill="#00e5e5" font-size="31" font-weight="700">04</text><text x="21" y="109" fill="#f4fbff" font-size="21" font-weight="700">Coordinate release</text><text x="21" y="141" fill="#a6e7ec" font-size="16">Fix, credit, publication</text></g>
+  </g>
+</svg>

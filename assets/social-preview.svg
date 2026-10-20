@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">Muted Cybersecurity social preview</title>
+  <desc id="desc">Navy title card with cyan shield monogram, organization name, and research focus.</desc>
+  <rect width="1280" height="640" fill="#071b3b"/>
+  <path d="M0 613h1280" stroke="#00e5e5" stroke-width="6"/>
+  <path d="M110 112 236 165 362 112v166c0 114-78 188-126 215-48-27-126-101-126-215Z" fill="none" stroke="#00e5e5" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M160 327V200l76 82 76-82v127" fill="none" stroke="#00e5e5" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="445" y="263" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700" fill="#f4fbff">MUTED CYBERSECURITY</text>
+  <path d="M447 294h710" stroke="#00e5e5" stroke-width="6"/>
+  <text x="447" y="356" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#a6e7ec">Security research</text>
+  <text x="447" y="403" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#a6e7ec">Coordinated vulnerability disclosure</text>
+  <text x="110" y="576" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#f4fbff">mut3dcybersecurity.com</text>
+</svg>

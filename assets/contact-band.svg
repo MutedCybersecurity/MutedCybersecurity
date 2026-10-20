@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 178" role="img" aria-labelledby="title desc">
+  <title id="title">Contact Muted Cybersecurity</title>
+  <desc id="desc">Navy contact banner with an envelope icon and professional contact address.</desc>
+  <rect width="1200" height="178" rx="20" fill="#071b3b"/>
+  <path d="M43 45h98a13 13 0 0 1 13 13v61a13 13 0 0 1-13 13H43a13 13 0 0 1-13-13V58a13 13 0 0 1 13-13Z" fill="none" stroke="#00e5e5" stroke-width="5"/>
+  <path d="m34 55 58 43 58-43" fill="none" stroke="#00e5e5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="194" y="73" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#f4fbff">LET'S COORDINATE</text>
+  <text x="195" y="112" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#a6e7ec">cybersec@mut3dcybersecurity.com</text>
+  <path d="M195 132h745" stroke="#00e5e5" stroke-width="3"/>
+</svg>
