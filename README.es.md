@@ -66,3 +66,5 @@ Los avisos originales establecen el alcance y el crédito definitivos. Los repor
 <img src="assets/contact-band.svg" alt="Contacto privado con Muted Cybersecurity" width="100%">
 
 Para colaborar en investigaciones o consultar sobre nuestro trabajo público, escribe a **[cybersec@mut3dcybersecurity.com](mailto:cybersec@mut3dcybersecurity.com)**. Si quieres comunicar una vulnerabilidad de otro proyecto, utiliza su canal privado de seguridad. No publiques detalles inéditos en issues o pull requests.
+
+Para proponer correcciones a este perfil, consulta la [guía de contribución](CONTRIBUTING.md). Los asuntos sensibles deben enviarse siguiendo las [indicaciones de contacto privado](SECURITY.md).

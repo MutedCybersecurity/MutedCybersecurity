@@ -66,3 +66,5 @@ The upstream advisory pages define the published scope and credit. See the [rese
 <img src="assets/contact-band.svg" alt="Contact Muted Cybersecurity for private security coordination" width="100%">
 
 For coordinated security work or questions about our public research, email **[cybersec@mut3dcybersecurity.com](mailto:cybersec@mut3dcybersecurity.com)**. For a vulnerability in another project, use that project's preferred private security channel. Please do not post unpublished details in public issues or pull requests.
+
+For corrections to this profile, see our [contribution guide](CONTRIBUTING.md). For sensitive matters, use the [private contact guidance](SECURITY.md).
