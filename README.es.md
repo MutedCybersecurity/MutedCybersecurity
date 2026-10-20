@@ -38,7 +38,7 @@ Investigamos límites de seguridad, validamos los hallazgos en entornos controla
 
 <img src="assets/research-workflow.svg" alt="Proceso: definir el límite, validar en aislamiento, reportar en privado y coordinar la publicación" width="100%">
 
-Distinguimos los resultados verificados de las hipótesis, usamos datos sintéticos cuando es posible y tomamos el aviso original del proyecto como fuente principal. Consulta nuestro [método de investigación](https://github.com/MutedCybersecurity/security-research/blob/main/docs/research-approach.md).
+Distinguimos los resultados verificados de las hipótesis, usamos datos sintéticos cuando es posible y tomamos el aviso original del proyecto como fuente principal. Consulta nuestro [método de investigación](https://github.com/MutedCybersecurity/security-research/blob/main/docs/research-approach.es.md).
 
 ## Repositorios principales
 
