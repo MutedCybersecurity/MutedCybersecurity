@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Muted Cybersecurity</title>
+  <desc id="desc">Navy banner with a cyan shield monogram and the words Security Research and Coordinated Disclosure.</desc>
+  <rect width="1200" height="250" rx="24" fill="#071b3b"/>
+  <g opacity=".15" stroke="#52dce8" fill="none"><path d="M0 200H1200M0 150H1200M0 100H1200M0 50H1200"/><path d="M875 0V250M975 0V250M1075 0V250"/></g>
+  <path d="M104 42 160 66 216 42v69c0 49-35 82-56 94-21-12-56-45-56-94Z" fill="none" stroke="#00e5e5" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M127 145V79l33 37 33-37v66" fill="none" stroke="#00e5e5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="270" y="113" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="35" fill="#f4fbff">MUTED CYBERSECURITY</text>
+  <path d="M271 131h600" stroke="#00e5e5" stroke-width="3"/>
+  <text x="272" y="174" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#a6e7ec">SECURITY RESEARCH · COORDINATED DISCLOSURE</text>
+</svg>
