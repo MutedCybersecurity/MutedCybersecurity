@@ -19,14 +19,15 @@ Ready-to-use wording is available in [attribution examples](attribution.md).
 
 | Element | Value | Intended use |
 | --- | --- | --- |
-| Deep navy | `#102B54` | Main background |
+| Cloud white | `#F3F8FF` | Main graphic background |
+| Deep navy | `#102B54` | Text and illustrated panels |
 | Teal | `#32D6C4` | Research, verification, and key highlights |
 | Periwinkle | `#8292FF` | Supporting shapes and process accents |
 | Amber | `#FFBD69` | Templates and coordination accents |
-| Ice white | `#F7FAFF` | Main text on navy |
-| Soft blue | `#CBDCF0` | Secondary text on navy |
+| Ink blue | `#152D4E` | Main text on light graphics |
+| Soft blue | `#CBDCF0` | Secondary text on dark panels |
 
-Typography uses common sans-serif fonts, with clear headings and short paragraphs. Graphics use simple geometric shapes so they remain legible at small sizes.
+Typography uses common sans-serif fonts, with clear headings and short paragraphs. The light backgrounds are built into the image assets, so the illustrations remain readable in both GitHub light and dark themes. Graphics use simple geometric shapes so they remain legible at small sizes.
 
 ## Assets
 
